@@ -3,4 +3,4 @@ applications:
 - name: springcloud-eurekaserver
   memory: 512M
   host: springcloud-eurekaserver
-  path: target/springcloud-eurekaserver.1.1.0.RELEASE.jar
+  path: target/eurekaserver-1.1.0.RELEASE.jar
